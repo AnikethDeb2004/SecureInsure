@@ -76,5 +76,6 @@ contract InsuranceContract {
         Transaction memory transaction = Transaction(block.timestamp, _recipient, _amount);
         transactionHistory[msg.sender].push(transaction);
         emit TransactionRecorded(msg.sender, _recipient, _amount);
+        
     }
 }
