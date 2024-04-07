@@ -74,7 +74,7 @@ function Header() {
           style={{ fontFamily: "Nanum Gothic Coding", fontWeight: 700 }}
         >
           <span
-            className={`relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-3xl group-hover:bg-opacity-0 ${
+            className={`relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-3xl cursor-pointer group-hover:bg-opacity-0 ${
               isConnected ? "text-sm" : "" // Apply smaller font size if connected
             }`}
           >
