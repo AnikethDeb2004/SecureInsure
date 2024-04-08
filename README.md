@@ -9,7 +9,7 @@
 
 ● Blockchain provides a tamper-resistant and transparent ledger for storing insurance transactions and claims data. This reduces the risk of fraudulent activities, as all transactions are recorded immutably.
 
-● Smart contracts enable automated verification and execution of claims processes, ensuring compliance with predefined rules and conditions. This automation reduces the likelihood of fraudulent claims and improves the accuracy of claims processing.
+● Smart contracts enable automated verification and execution of claims processes, ensuring compliance with predefined rules. This automation reduces the likelihood of fraudulent claims and improves the accuracy of claims processing.
 
 
 ## Streamlined Processes and Cost Reduction:
