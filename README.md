@@ -38,7 +38,7 @@
 
 # Staring the local server:
 
-     client server will start at your local host 
+      npm run dev 
 
 
  # **💻Tech Stack**
