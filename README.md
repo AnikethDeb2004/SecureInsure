@@ -2,6 +2,7 @@
   ![logo (3) (1)](https://github.com/kavyansh18/SecureInsure/assets/137791848/627fc86c-cd2f-4463-b837-4ddb690a0dbe)
   
   Built with ❤️, delivered on ☕,at [HackVerse 2024](https://hackverse2024.devfolio.co/)
+  
 
   # **What problem it is solving?**
 
@@ -26,6 +27,11 @@
 ●Smart contracts execute predefined actions automatically based on transparent and predefined conditions, ensuring fairness and transparency in claims processing. This transparency fosters trust and confidence in the insurance industry, leading to better customer satisfaction and retention.
 
 
+ ## **Meet the creators of SecureInsure**
+
+  <a href="https://github.com/AnikethDeb2004/SecureInsures/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=AnikethDeb2004/SecureInsure" alt="Contributors">
+</a>
 
 
 
